@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ritikkush8871
+- 👋 Hi, I’m Ritik kushwaha
 - 👀 I’m interested in software engineer
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on IT sector.
